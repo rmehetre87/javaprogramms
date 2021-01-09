@@ -4,11 +4,15 @@ public class PrimeNumber {
 
 	  public static void main(String[] args) {
 
-	    int num = 33, i = 2;
+	    int num = 34, i = 2;
+	    
 	    boolean flag = false;
+	    
 	    while (i <= num / 2) {
-	      // condition for nonprime number
-	      if (num % i == 0) {
+	     
+	    	// condition for nonprime number
+	      
+	    	if (num % i == 0) {
 	        flag = true;
 	        break;
 	      }
