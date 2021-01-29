@@ -13,7 +13,7 @@ public class EmployeeCons {
     }
     public static void main(String args[])
     {
-    	EmployeeCons myobj = new EmployeeCons(10);
+    	EmployeeCons myobj = new EmployeeCons(100);
             System.out.println("value of var is: "+myobj.getValue());
     }
 	

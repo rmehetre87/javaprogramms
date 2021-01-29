@@ -9,6 +9,7 @@ public class Collectionsorting
  { 
      // Create a list of strings 
      ArrayList<String> al = new ArrayList<String>(); 
+     
      al.add("Y"); 
      al.add("y"); 
      al.add("Z"); 

@@ -18,6 +18,7 @@ public class MammalInt implements Animal {
 
    public static void main(String args[]) {
       MammalInt m = new MammalInt();
+      
       m.eat();
       m.travel();
    }

@@ -7,7 +7,7 @@ public class ASSCIvalueofChar {
 		char c = 'A';
 		int ascii = c; //97
 		
-		int acciiNumber =  (int)c;
+		int acciiNumber =  c;
 		
 		System.out.println(ascii);
 				
